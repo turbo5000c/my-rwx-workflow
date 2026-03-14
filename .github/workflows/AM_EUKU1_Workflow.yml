@@ -16,7 +16,7 @@ jobs:
         echo "Add your build steps here"
         echo "This is a generic template - customize based on your project needs"
         
-    - name: Test placeholder
+    - name: Test placeholder1
       run: |
         echo "Add your test steps here"
         echo "Configure your specific testing framework and commands"
